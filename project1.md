@@ -156,7 +156,7 @@ Your app must:
 
 ## Project Feedback + Evaluation
 
-Your project will be evaluated by your instructor team in order to provide you with useful feedback. The following criteria will be used for the evaluation:
+Your project will be evaluated by your instructional team in order to provide you with useful feedback. The following criteria will be used for the evaluation:
 
 * __Project Workflow__: Did you complete the user stories, wireframes, task tracking, and/or ERDs, as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
 
