@@ -109,3 +109,5 @@ Build a website for neighborhoods where users can post questions, items for sale
 ### Sample Projects
 
 Here are some sample projects from previous Atlanta WDI Cohorts: [Sample Projects](project2-sample-projects.md)
+
+Here is the [GA WDI Gallery](https://gallery.generalassemb.ly/WDI?metro=)
