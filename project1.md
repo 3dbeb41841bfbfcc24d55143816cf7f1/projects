@@ -1,8 +1,10 @@
-# PROJECT 1 Requirements
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1: Let the Games Begin
+
+## PROJECT Requirements
 
 For your first project you will build a simple game as a Web Application. You may choose from one of the ideas listed below or you may choose another game __with approval from one of the WDI instructors__.
 
-## Project Objectives
+### Project Objectives
 
 The objectives of this project are to:
 
