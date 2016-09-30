@@ -21,6 +21,9 @@ We hope you'll exercise creativity on this project, sketch some wireframes befor
 
 Your app must:
 
+- **Use Ruby on Rails or Sinatra**
+- **Use Active Record**
+- **Use PostgreSQL**
 - **Have at least 2 models** (more if they make sense) – one representing someone using your application, and one that represents the main functional idea for your app
 - **Include sign up/log in functionality**, with encrypted passwords & an authorization flow
 - **Have complete RESTful routes** for at least one of your resources with GET, POST, PUT, PATCH, and DELETE
@@ -30,6 +33,7 @@ Your app must:
 - **Be deployed online** and accessible to the public
 
 ## Necessary Deliverables
+
 - A **working full-stack application, built by you (or your team)**, hosted somewhere on the internet
 - A **link to your hosted working app** in the URL section of your Github repo
 - A **git repository hosted on Github**, with a link to your hosted project, and frequent commits dating back to the very beginning of the project. Commit early, commit often.
