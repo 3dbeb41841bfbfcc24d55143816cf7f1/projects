@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+  font-family: "Courier"
+}
+button {
+  background-color: white;
+}
+.X {
+  color: green;
+}
+.O {
+  color: red;
+}
