@@ -1,9 +1,7 @@
 ![](images/firebasescr.png)
 
 # Firebase Deployment
-
 #### Re Project 1 from [WDI Project Requirements](https://github.com/ATL-WDI-Curriculum/projects/blob/master/project1.md) 
-
 
 Firebase is a deployment option that is also available to you to deploy your first WDI Project incorporating HTML, CSS, JavaScript and DOM manipulation among the other requirements of the project in the specification.
 
