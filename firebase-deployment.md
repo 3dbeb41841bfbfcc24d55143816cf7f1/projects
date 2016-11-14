@@ -1,9 +1,7 @@
 # Firebase Deployment
 #### Re Project 1 from [WDI Project Requirements](https://github.com/ATL-WDI-Curriculum/projects/blob/master/project1.md) 
 
-Firebase is a deployment option that is also available to you to deploy your first WDI Project incorporating HTML, CSS, JavaScript and DOM manipulation among the other requirements of the project in the specification.
-
-Deployment should be a late stage concern of yours but not a last minute concern. Firebase is one option you may decide to use to access the various benefits of the Firebase platform and is a good example of efficient command line tools.  
+Firebase hosting is a deployment option that is also available to you to deploy your first WDI Project incorporating HTML, CSS, JavaScript and DOM manipulation. Deployment should be a late stage concern of yours but not a last minute concern. Firebase is one option you may decide to use to access the various benefits of the Firebase platform and is a good example of efficient command line tools.  
 
 ## [Deployment Instructions](https://firebase.google.com/docs/hosting/deploying)
 
