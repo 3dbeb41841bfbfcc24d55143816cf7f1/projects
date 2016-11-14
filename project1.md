@@ -145,7 +145,7 @@ Your app must:
   - Short and clear functions that _do one thing_
   - Efficient code (cache references to DOM nodes, etc.)
   - DRY (Don't Repeat Yourself) code
-* Deploy your game online, where the rest of the world can access it
+* Deploy your game online, where the rest of the world can access it. Suggested options include [Github Pages](https://pages.github.com/), [BitBalloon](https://www.bitballoon.com/) or [Firebase Hosting (NB: Requires a Google Account)](https://firebase.google.com/docs/hosting/deploying). 
 * Use semantic markup for HTML and CSS (adhere to best practices)
 
 ## Suggested Ways to Get Started
