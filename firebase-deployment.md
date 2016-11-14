@@ -1,7 +1,6 @@
 ![](images/firebasescr.png)
 
 # Firebase Deployment
---
 
 #### Re Project 1 from [WDI Project Requirements](https://github.com/ATL-WDI-Curriculum/projects/blob/master/project1.md) 
 
