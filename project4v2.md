@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - Final Project
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 4 - Final Project
 
 **Read this entire document before writing a line of code.**
 
@@ -114,7 +114,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **Thursday, January 26** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Friday, February 10** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -123,7 +123,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 ###### How do I turn in the project?
 
 * As you make code changes, **frequently commit and push to GitHub**.
-* You will be required to submit the GitHub URL and the URL to the live site - watch slack for details.
+* You will be required to submit the GitHub URL and the URL to the live site via GA-laxy.
 
 ---
 
@@ -131,7 +131,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **9:17AM** on **January 26**. Each presentation should be **5-8 minutes or less** and cover the following:
+Project 4 presentations will start at **10:00AM** on **February 10**. Each presentation should be **5-8 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
@@ -144,4 +144,4 @@ Project 3 presentations will start at **9:17AM** on **January 26**. Each present
 
 ###### How will I get feedback from instructors?
 
-See the [feedback doc](feedback.md) for details.
+We will be submitting feedback for the students through the GAlaxy app.
